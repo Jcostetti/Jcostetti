@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jcostetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi,eu sou o @Jcostetti
+- 👀 estudando pensamento computacional 
+- 🌱 focado nos estudos 
+- 💞️ apaixonado pela vida
+- 📫 @jcostetti
 
 <!---
 Jcostetti/Jcostetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
