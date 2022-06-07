@@ -1,7 +1,7 @@
 - 👋 oi,eu sou o @Jcostetti
 - 👀 estudando pensamento computacional 
 - 🌱 focado nos estudos 
-- 💞️ apaixonado pela vida
+- 💞️ apaixonado pela ruiva prima do Davi 
 - 📫 @jcostetti
 
 <!---
